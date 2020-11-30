@@ -1233,8 +1233,8 @@
 
 "@uvue/core@^1.0.0-0":
   version "1.0.0-alpha.1"
-  resolved "http://localhost:4873/@uvue%2fcore/-/core-1.0.0-alpha.1.tgz#6a1e7f153b0f7a64bfe3106f950a275ab6b8da2f"
-  integrity sha512-bUNbKyKj+fTwi5w0M2fFLWbeFGfcqJW/sOsvXLHdnTmjECcZeSSTv46wqmlKkaBwEQ9l/yJRmUZ+4kLzXuAfHg==
+  resolved "https://registry.yarnpkg.com/@uvue/core/-/core-1.0.0-alpha.1.tgz#0c33a49b6b502c40d1edb138e0b3c29b4a4f6546"
+  integrity sha512-pavNZrH+JNiyq87qmeQQsoIHATWOkQP3lHGDxdZ6eSWAsU0kZ478/8rPjr43KRIBX+C6qMOGwZoc1xEUC/caSw==
   dependencies:
     hash-sum "^2.0.0"
     vue "^3.0.0-0"
@@ -1242,8 +1242,8 @@
 
 "@uvue/service@^1.0.0-0":
   version "1.0.0-alpha.1"
-  resolved "http://localhost:4873/@uvue%2fservice/-/service-1.0.0-alpha.1.tgz#30184d3f3496a47f0f47a56d6351bbaac4a78723"
-  integrity sha512-queoOO3RGgi3nNauOu4m1oBGN8+AhepNQIbR93CkvlHmTGLcwbQpkxqRQhCXErJ5lBnfPwYeo6VZrN7eNkF21w==
+  resolved "https://registry.yarnpkg.com/@uvue/service/-/service-1.0.0-alpha.1.tgz#aff42f172dd2c6483029e53c9122f25b175d3edf"
+  integrity sha512-BKuiUzCwm1Jt56sLj+yS+QrmjcLshwpL51uKE5gtDjgXmQ5GGJqbIHCzXepa+SLokU++lRkAJr3asw6Q+J5LZw==
   dependencies:
     "@nuxtjs/youch" "^4.2.3"
     "@vue/cli-service" "^4.2.3"
